@@ -15,3 +15,7 @@ npm i
 npm start
 react-native run-android or run-ios
 ```
+
+## Demo
+
+![demo](demo.GIF)
