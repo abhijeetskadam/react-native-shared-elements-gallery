@@ -1,6 +1,7 @@
 # react-native-shared-elements-gallery
 
-Shared elements in pure javascript
+Shared elements like transitions in pure javascript.
+It is not exactly native shared elements but looks like.
 
 ## Inspiration
 
